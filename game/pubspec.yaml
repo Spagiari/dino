@@ -19,3 +19,4 @@ flutter:
   uses-material-design: false
   assets:
    - assets/images/dino.png
+   - assets/images/cactus.png
